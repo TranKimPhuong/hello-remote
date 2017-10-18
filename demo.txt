@@ -1,1 +1,3 @@
 This file is created and push to remote repo bu Git Bash!
+
+This text is wrote on local and will be push to server now!
